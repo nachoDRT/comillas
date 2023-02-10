@@ -1,2 +1,2 @@
 # comillas
-A repo to connect Frontend, Backend and a Deep Learning Module. The goal is to extract valuable information from non-digital native documents and provide the interface for an end-user.
+This repo is a hub to connect Frontend, Backend and a Deep Learning Module to extract valuable information from non-digital native documents. The project's goal is to provide a friendly end-user interface. The end-user may import documents (to be processed), receive the extracted information, and modify it i fneeded.
